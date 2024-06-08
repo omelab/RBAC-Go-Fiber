@@ -1,5 +1,7 @@
 ## Role-Based Access Control (RBAC) system in a Go project
 
+![Role-Based Access Control (RBAC) system in a Go project](go-blog.jpg)
+
 Creating a Role-Based Access Control (RBAC) system in a Go project with Fiber, PostgreSQL, JWT for authentication, and GORM as the ORM with golang-migrate for migrations, inspired by Laravel's Spatie package, involves several steps. This will include setting up your project, designing your database schema, implementing middleware for access control, and creating necessary functions for managing roles and permissions.
 
 ### Project Structure
